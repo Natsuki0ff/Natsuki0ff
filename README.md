@@ -6,3 +6,4 @@
 - 💬 My discord is **NatsukiOff#7713**
 - ⛏️ **Minecraft player:** *https://fr.namemc.com/profile/NatsukiOff.1*
 - 💾 **Projects:** *Secret*
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
