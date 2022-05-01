@@ -5,5 +5,4 @@
 - 🎨 **I'm a freelance graphic disigner**
 - 💬 My discord is **NatsukiOff#7713**
 - ⛏️ **Minecraft player:** *https://fr.namemc.com/profile/NatsukiOff.1*
-- 💾 **Projects:** *Secret*
-- **Visitors:** <img src="https://visitor-badge.glitch.me/badge?page_id=Natsuki0ff.visitor-badge.issue.1">
+- <img src="https://visitor-badge.glitch.me/badge?page_id=Natsuki0ff.visitor-badge.issue.1">
