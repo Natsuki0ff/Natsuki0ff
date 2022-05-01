@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 **Natsuki0ff/Natsuki0ff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🥖 ★ Hi i'm @Natsuki0ff, follow me! Im french and I learn to code in Python and Java! Freelance graphic designer
