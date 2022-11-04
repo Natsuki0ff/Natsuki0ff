@@ -1,8 +1,20 @@
-### Hi I'm ★Natsuki0ff!★
+### Hi I'm Natsuki0ff!
 
 - 🥖 **Im french**
-- 💻 **I learn to code in Python and Java**
 - 🎨 **I'm a freelance graphic disigner**
-- 💬 My discord is **NatsukiOff#7713**
+- 💬 My discord is **NatsukiΩff#7713**
+- ❤️ LW
 - ⛏️ **Minecraft player:** *https://fr.namemc.com/profile/NatsukiOff.1*
 - <img src="https://visitor-badge.glitch.me/badge?page_id=Natsuki0ff.visitor-badge.issue.1">
+- Twitter: Natsuki0ff
+- Instagram: @natsukioff_
+
+
+
+
+
+
+
+
+
+Chainsaw man is pretty cool
