@@ -19,4 +19,4 @@
 - <img src="https://visitor-badge.glitch.me/badge?page_id=Natsuki0ff.visitor-badge.issue.1">
 - Chainsaw Man is pretty cool
 
-<img src="https://tenor.com/bWULl.gif">
+<img src="https://media.tenor.com/tXm5HfwbSBEAAAAC/chainsaw-man-csm.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
