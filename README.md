@@ -1,7 +1,7 @@
 ### Hi I'm NatsukiOff
 
 - 🥖 **Im french**
-- 🎨 **I'm a freelance graphic disigner**
+- 🎨 **I'm a freelance graphic disigner** on https://dsc.gg/thefrenchattic
 - 💬 My discord is **NatsukiΩff#7713**
 - ❤️ **LW** supremacy
 - ⛏️ **Minecraft player:** *https://fr.namemc.com/profile/NatsukiOff.1*
