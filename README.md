@@ -9,4 +9,5 @@
 - 📺 **Twitch:** [@natsukiOff_](https://www.twitch.tv/natsukioff_)
 - 🎮 **Fortnite player:** [NatsukiOff](https://fortnitetracker.com/profile/all/NatsukiOff)
 
-- <iframe width="110" height="200" src="https://www.myinstants.com/instant/bye-bye-mewing-98347/embed/" frameborder="0" scrolling="no"></iframe>
+```diff
++10100101101010101001010101010101010010100101010101
