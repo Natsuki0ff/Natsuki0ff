@@ -11,11 +11,5 @@
 ---
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=Natsuki0ff.visitor-badge.issue.1" alt="Visitors">
-Chainsaw Man is pretty cool
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://media.tenor.com/tXm5HfwbSBEAAAAC/chainsaw-man-csm.gif" style="max-width: 45%;" alt="Chainsaw Man GIF">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/10/chainsaw-man-gif-9.gif" style="max-width: 45%;" alt="Chainsaw Man GIF">
-</div>
-https://andriival.github.io/MatrixEffect/
-<iframe src="https://andriival.github.io/MatrixEffect/" width="100%" height="300px"></iframe>
+<div class="tenor-gif-embed" data-postid="17951665" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/building-fortnite-video-game-gif-17951665">Building Fortnite GIF</a>from <a href="https://tenor.com/search/building-gifs">Building GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
