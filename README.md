@@ -1,4 +1,4 @@
-#YO WASSUP 👋
+# YO WASSUP 👋
 
 - 💻 **Currently studying computer engineering and physics**
 - 🥖 **French**
