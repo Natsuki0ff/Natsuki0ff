@@ -2,13 +2,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+NatsukiOff!;Currently+studying;computer+engineering+and+physics;%2B+Freelance+graphic+designer+" alt="Typing SVG" /></a>
 
 ---
-## <img
+## Currently Studying <img
   src="https://media.tenor.com/wpSo-8CrXqUAAAAi/loading-loading-forever.gif"
   alt="Loading Animation"
   width="20"
   height="20"
   style="vertical-align: middle; margin-right: 5px;"
-/> Currently Studying
+/> 
 
 - 🎨 **Freelance graphic designer** at [The French Attic](https://dsc.gg/thefrenchattic)
 - 💬 **You can reach me on Discord:** **@natsukioff**
