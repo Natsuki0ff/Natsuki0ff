@@ -1,14 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+NatsukiOff!;Currently+studying;computer+engineering+and+physics;%2B+Freelance+graphic+designer+" alt="Typing SVG" /></a>
 
+---
 
 - 🎨 **Freelance graphic designer** at [The French Attic](https://dsc.gg/thefrenchattic)
 - 💬 **You can reach me on Discord:** **@natsukioff**
 - 🐦 **Twitter:** [@Natsuki0ff](https://twitter.com/Natsuki0ff)
-- 📺 **Twitch:** [@natsukiOff_](https://www.twitch.tv/natsukioff_)
-- ⛏️ **Minecraft player:** [NatsukiOff](https://fr.namemc.com/profile/NatsukiOff.1)
-- 🎮 **Fortnite player:** [NatsukiOff](https://fortnitetracker.com/profile/all/NatsukiOff)
 
+---
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+---
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img
