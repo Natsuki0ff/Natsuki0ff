@@ -114,5 +114,5 @@
     />
 </p>
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+visiting+my+profile." alt="Typing SVG" /></a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
