@@ -4,13 +4,25 @@
 ---
 ## Currently Studying
 
-- 🎨 **Freelance graphic designer** at [The French Attic](https://dsc.gg/thefrenchattic)
-- 💬 **You can reach me on Discord:** **@natsukioff**
-- 🐦 **Twitter:** [@Natsuki0ff](https://twitter.com/Natsuki0ff)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,processing,java,cpp,cs,py,)](https://skillicons.dev)
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,processing,java,cpp,cs,)](https://skillicons.dev)
+<div style="text-align: center;">
+  <p>
+    <img src="https://skillicons.dev/icons?i=figma&theme=light" alt="Figma Icon" style="vertical-align: middle; margin-right: 8px;" />
+    Freelance graphic designer at <a href="https://dsc.gg/thefrenchattic">The French Attic</a>
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord Icon" style="vertical-align: middle; margin-right: 8px;" />
+    You can reach me on Discord: natsukioff
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="Twitter Icon" style="vertical-align: middle; margin-right: 8px;" />
+    Twitter: <a href="https://twitter.com/Natsuki0ff">@Natsuki0ff</a>
+  </p>
+</div>
+
 
 ---
 <p align="center">
