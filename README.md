@@ -8,8 +8,7 @@
 
 ## Freelance graphic designer
 
-<div style="text-align: center;">
-  <!-- Icône de The French Attic cliquable menant vers Discord -->
+<p align="center">
   <a href="https://discord.gg/mNtTwMY96q" target="_blank">
     <img
       src="https://pbs.twimg.com/profile_images/1607848268427321346/b1m4ktKt_400x400.jpg"
@@ -19,10 +18,9 @@
       style="border-radius: 50%; margin-right: 10px;"
     />
   </a>
-  
-I offer personalized drawings, banner designs, and profile pictures. I'm currently enhancing my skills in graphic design.
+  Hi! I offer personalized drawings, banner designs, and profile pictures. I'm currently enhancing my skills in graphic design.
+</p>
 
-You can connect with me on Discord at **natsukioff** or follow me on Twitter at [@Natsuki0ff](https://twitter.com/Natsuki0ff).
 
 ## My Tools
 
