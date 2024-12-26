@@ -2,11 +2,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+NatsukiOff!;Currently+studying;computer+engineering+and+physics;%2B+Freelance+graphic+designer+" alt="Typing SVG" /></a>
 
 
-### Currently Studying
+## Currently Studying
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,processing,java,cpp,cs,py,)](https://skillicons.dev)
 
-### Actually frelancer
+## Actually frelancer
 
 <div style="text-align: center;">
   <!-- Icône de The French Attic cliquable menant vers Discord -->
@@ -20,7 +20,7 @@
     />
   </a>
 
-### You Can reach me here:
+## You Can reach me here:
 
   <div style="display: inline-flex; justify-content: center; gap: 10px;">
     <a href="https://discord.com/users/natsukioff" target="_blank">
