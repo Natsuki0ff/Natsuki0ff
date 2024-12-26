@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,processing,java,cpp,cs,py,)](https://skillicons.dev)
 
-## Actually frelancer
+## Freelance graphic designer
 
 <div style="text-align: center;">
   <!-- Icône de The French Attic cliquable menant vers Discord -->
