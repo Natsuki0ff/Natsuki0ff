@@ -20,17 +20,6 @@
     />
   </a>
 
-![Your Photo](https://pbs.twimg.com/profile_images/1607848268427321346/b1m4ktKt_400x400.jpg)
-
-## Hi! I'm a freelance graphic designer
-
-I offer personalized drawings, banner designs, and profile pictures. I'm currently enhancing my skills in graphic design.
-
-You can connect with me on Discord at **natsukioff** or follow me on Twitter at [@Natsuki0ff](https://twitter.com/Natsuki0ff).
-
-I'm also a member of [The French Attic](https://discord.gg/mNtTwMY96q), a Discord server dedicated to freelancers, providing a dynamic community and collaboration opportunities.
-
-
 ## My Tools
 
 [![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,rider,sublime,discord)](https://skillicons.dev)
