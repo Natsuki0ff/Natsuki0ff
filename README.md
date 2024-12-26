@@ -8,7 +8,7 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7D5B&width=435&lines=Freelance+graphic+designer" alt="Typing SVG" /></a>
 
 <p align="center">
-  **Hi! I offer personalized drawings, banner designs, and profile pictures. I'm currently enhancing my skills in graphic design.**
+  Hi! I offer personalized drawings, banner designs, and profile pictures. I'm currently enhancing my skills in graphic design.
   <br><br>
   <a href="https://discord.gg/mNtTwMY96q" target="_blank">
     <img
