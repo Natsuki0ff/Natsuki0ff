@@ -12,7 +12,7 @@
   <br><br>
   <a href="https://discord.gg/mNtTwMY96q" target="_blank">
     <img
-      src="https://pbs.twimg.com/profile_images/1607848268427321346/b1m4ktKt_400x400.jpg"
+      src="https://image.noelshack.com/fichiers/2024/52/4/1735232986-1500x500.jpeg"
       alt="The French Attic Icon"
       width="80"
       height="80"
