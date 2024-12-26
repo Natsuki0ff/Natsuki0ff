@@ -6,8 +6,12 @@
 <img
   src="https://media.tenor.com/wpSo-8CrXqUAAAAi/loading-loading-forever.gif"
   alt="Loading Animation"
-  width="200"
+  width="20"
+  height="20"
+  style="vertical-align: middle; margin-right: 5px;"
 />
+Bonjour
+
 
 - 🎨 **Freelance graphic designer** at [The French Attic](https://dsc.gg/thefrenchattic)
 - 💬 **You can reach me on Discord:** **@natsukioff**
