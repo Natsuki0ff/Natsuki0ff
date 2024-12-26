@@ -19,9 +19,6 @@
 </p>
 
 
-
-
-
 ## My Tools
 
 [![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,rider,sublime,discord)](https://skillicons.dev)
