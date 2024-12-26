@@ -12,7 +12,7 @@
   <br><br>
   <a href="https://discord.gg/mNtTwMY96q" target="_blank">
     <img
-      src="https://pbs.twimg.com/profile_images/1607848268427321346/b1m4ktKt_400x400.jpg"
+      src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=209DBD&width=435&lines=Hi%2C+Im+NatsukiOff!" alt="Typing SVG" /></a>"
       alt="The French Attic Icon"
       width="80"
       height="80"
