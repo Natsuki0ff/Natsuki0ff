@@ -46,7 +46,7 @@
         style="border-radius: 50%;"
       />
     </a>
-    <span style="margin-left: 10px;">Bonjour</span>
+    <span style="margin-left: 10px;">@natsukioff on Discord</span>
   </div>
   <div style="display: flex; align-items: center;">
     <a href="https://twitter.com/Natsuki0ff" target="_blank">
@@ -58,7 +58,7 @@
         style="border-radius: 50%;"
       />
     </a>
-    <span style="margin-left: 10px;">Bonjour</span>
+    <span style="margin-left: 10px;">@Natsuki0ff on X</span>
   </div>
 </div>
 
