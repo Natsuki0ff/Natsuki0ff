@@ -19,6 +19,10 @@
       style="border-radius: 50%; margin-right: 10px;"
     />
   </a>
+  
+I offer personalized drawings, banner designs, and profile pictures. I'm currently enhancing my skills in graphic design.
+
+You can connect with me on Discord at **natsukioff** or follow me on Twitter at [@Natsuki0ff](https://twitter.com/Natsuki0ff).
 
 ## My Tools
 
