@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+NatsukiOff!;Currently+studying;computer+engineering+and+physics;%2B+Freelance+graphic+designer+" alt="Typing SVG" /></a>
 
 
-## Currently Studying
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Currently+Studying" alt="Typing SVG" /></a>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,processing,java,cpp,cs,py,)](https://skillicons.dev)
 
