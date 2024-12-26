@@ -33,9 +33,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=unity,blender,linux,kali)](https://skillicons.dev)
 
-## You Can reach me here:
+## You can reach me here
 
-  <div style="display: inline-flex; justify-content: center; gap: 10px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <div style="display: flex; align-items: center;">
     <a href="https://discord.com/users/natsukioff" target="_blank">
       <img
         src="https://skillicons.dev/icons?i=discord&theme=light"
@@ -45,6 +46,9 @@
         style="border-radius: 50%;"
       />
     </a>
+    <span style="margin-left: 10px;">Bonjour</span>
+  </div>
+  <div style="display: flex; align-items: center;">
     <a href="https://twitter.com/Natsuki0ff" target="_blank">
       <img
         src="https://skillicons.dev/icons?i=twitter&theme=light"
@@ -54,8 +58,10 @@
         style="border-radius: 50%;"
       />
     </a>
+    <span style="margin-left: 10px;">Bonjour</span>
   </div>
 </div>
+
 
 
 
