@@ -10,15 +10,7 @@
 <p align="center">
   Hi! I offer personalized drawings, banner designs, and profile pictures. I'm currently enhancing my skills in graphic design.
   <br><br>
-  <a href="https://discord.gg/mNtTwMY96q" target="_blank">
-    <img
-      src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=209DBD&width=435&lines=Hi%2C+Im+NatsukiOff!" alt="Typing SVG" /></a>"
-      alt="The French Attic Icon"
-      width="80"
-      height="80"
-      style="border-radius: 50%; vertical-align: middle;"
-    />
-  </a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=209DBD&width=435&lines=Hi%2C+Im+NatsukiOff!" alt="Typing SVG" /></a>
   <br>
   <span style="font-weight: bold;">The French Attic</span>
 </p>
