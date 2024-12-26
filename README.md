@@ -8,44 +8,34 @@
 
 ---
 
-
-<div style="text-align: center;">
-  <p>
-    <a href="https://dsc.gg/thefrenchattic" target="_blank">
-      <img
-        src="https://pbs.twimg.com/profile_images/1607848268427321346/b1m4ktKt_400x400.jpg"
-        alt="The French Attic Icon"
-        width="40"
-        height="40"
-        style="vertical-align: middle; margin-right: 8px; border-radius: 50%;"
-      />
-    </a>
-    Freelance graphic designer at <a href="https://dsc.gg/thefrenchattic">The French Attic</a>
-  </p>
-  <p>
-    <a href="https://discord.com/users/natsukioff" target="_blank">
-      <img
-        src="https://skillicons.dev/icons?i=discord&theme=light"
-        alt="Discord Icon"
-        width="40"
-        height="40"
-        style="vertical-align: middle; margin-right: 8px; border-radius: 50%;"
-      />
-    </a>
-    You can reach me on Discord: natsukioff
-  </p>
-  <p>
-    <a href="https://twitter.com/Natsuki0ff" target="_blank">
-      <img
-        src="https://skillicons.dev/icons?i=twitter&theme=light"
-        alt="Twitter Icon"
-        width="40"
-        height="40"
-        style="vertical-align: middle; margin-right: 8px; border-radius: 50%;"
-      />
-    </a>
-    Follow me on Twitter: @Natsuki0ff
-  </p>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://dsc.gg/thefrenchattic" target="_blank">
+    <img
+      src="https://pbs.twimg.com/profile_images/1607848268427321346/b1m4ktKt_400x400.jpg"
+      alt="The French Attic Icon"
+      width="40"
+      height="40"
+      style="border-radius: 50%;"
+    />
+  </a>
+  <a href="https://discord.com/users/natsukioff" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=discord&theme=light"
+      alt="Discord Icon"
+      width="40"
+      height="40"
+      style="border-radius: 50%;"
+    />
+  </a>
+  <a href="https://twitter.com/Natsuki0ff" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=twitter&theme=light"
+      alt="Twitter Icon"
+      width="40"
+      height="40"
+      style="border-radius: 50%;"
+    />
+  </a>
 </div>
 
 
