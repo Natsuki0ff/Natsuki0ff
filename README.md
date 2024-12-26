@@ -113,6 +113,10 @@
          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NatsukiOff&theme=aura"
     />
 </p>
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NatsukiOff}/count.svg" /></p> 
+<br></div>
+  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+visiting+my+profile." alt="Typing SVG" /></a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
