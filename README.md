@@ -89,33 +89,33 @@
   <a href="https://github.com/NatsukiOff">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NatsukiOff&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Natsuki0ff&theme=aura"
     />
 </p>
 
 <p align="center">
-  <a href="https://github.com/NatsukiOff">
+  <a href="https://github.com/Natsuki0ff">
     <img align="center"
          height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NatsukiOff&theme=aura"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Natsuki0ff&theme=aura"
     />
-  <a href="https://github.com/NatsukiOff">
+  <a href="https://github.com/Natsuki0ff">
     <img align="center"
          height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NatsukiOff&theme=aura&utcOffset=8"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Natsuki0ff&theme=aura&utcOffset=8"
     />
 </p>
 
 <p align="center">
- <a href="https://github.com/NatsukiOff">
+ <a href="https://github.com/Natsuki0ff">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NatsukiOff&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Natsuki0ff&theme=aura"
     />
 </p>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NatsukiOff}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Natsuki0ff}/count.svg" /></p> 
 <br></div>
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+visiting+my+profile." alt="Typing SVG" /></a>
