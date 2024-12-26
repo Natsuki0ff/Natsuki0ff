@@ -8,34 +8,39 @@
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://dsc.gg/thefrenchattic" target="_blank">
+<div style="text-align: center;">
+  <!-- Icône de The French Attic cliquable menant vers Discord -->
+  <a href="https://discord.com/users/natsukioff" target="_blank">
     <img
       src="https://pbs.twimg.com/profile_images/1607848268427321346/b1m4ktKt_400x400.jpg"
       alt="The French Attic Icon"
       width="40"
       height="40"
-      style="border-radius: 50%;"
+      style="border-radius: 50%; margin-right: 10px;"
     />
   </a>
-  <a href="https://discord.com/users/natsukioff" target="_blank">
-    <img
-      src="https://skillicons.dev/icons?i=discord&theme=light"
-      alt="Discord Icon"
-      width="40"
-      height="40"
-      style="border-radius: 50%;"
-    />
-  </a>
-  <a href="https://twitter.com/Natsuki0ff" target="_blank">
-    <img
-      src="https://skillicons.dev/icons?i=twitter&theme=light"
-      alt="Twitter Icon"
-      width="40"
-      height="40"
-      style="border-radius: 50%;"
-    />
-  </a>
+  <p>Freelanceur chez The French Attic</p>
+  <!-- Icônes de Discord et Twitter centrées côte à côte -->
+  <div style="display: inline-flex; justify-content: center; gap: 10px;">
+    <a href="https://discord.com/users/natsukioff" target="_blank">
+      <img
+        src="https://skillicons.dev/icons?i=discord&theme=light"
+        alt="Discord Icon"
+        width="40"
+        height="40"
+        style="border-radius: 50%;"
+      />
+    </a>
+    <a href="https://twitter.com/Natsuki0ff" target="_blank">
+      <img
+        src="https://skillicons.dev/icons?i=twitter&theme=light"
+        alt="Twitter Icon"
+        width="40"
+        height="40"
+        style="border-radius: 50%;"
+      />
+    </a>
+  </div>
 </div>
 
 
