@@ -20,6 +20,10 @@
     />
   </a>
 
+## My Tools
+
+[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,rider,sublime,discord)](https://skillicons.dev)
+
 ## You Can reach me here:
 
   <div style="display: inline-flex; justify-content: center; gap: 10px;">
