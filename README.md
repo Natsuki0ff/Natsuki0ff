@@ -18,7 +18,7 @@
       style="border-radius: 50%; margin-right: 10px;"
     />
   </a>
-       Hi! I offer personalized drawings, banner designs, and profile pictures. I'm currently enhancing my skills in graphic design.
+  Hi! I offer personalized drawings, banner designs, and profile pictures. I'm currently enhancing my skills in graphic design.
 </p>
 
 
