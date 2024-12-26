@@ -9,16 +9,17 @@
 ## Freelance graphic designer
 
 <p align="center">
+  Hi! I offer personalized drawings, banner designs, and profile pictures. I'm currently enhancing my skills in graphic design.
+  <br><br>
   <a href="https://discord.gg/mNtTwMY96q" target="_blank">
     <img
       src="https://pbs.twimg.com/profile_images/1607848268427321346/b1m4ktKt_400x400.jpg"
       alt="The French Attic Icon"
       width="40"
       height="40"
-      style="border-radius: 50%; margin-right: 10px;"
+      style="border-radius: 50%;"
     />
   </a>
-  Hi! I offer personalized drawings, banner designs, and profile pictures. I'm currently enhancing my skills in graphic design.
 </p>
 
 
