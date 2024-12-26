@@ -1,5 +1,5 @@
 # HI!
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+NatsukiOff!;Currently+studying;computer+engineering+and+physics;%2B+Freelance+graphic+designer+" alt="Typing SVG" /></a>
 - 💻 **Currently studying computer engineering and physics**
 - 🥖 **French**
 - 🎨 **Freelance graphic designer** at [The French Attic](https://dsc.gg/thefrenchattic)
