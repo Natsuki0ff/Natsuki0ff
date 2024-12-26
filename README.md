@@ -13,10 +13,6 @@
   <a href="https://discord.gg/mNtTwMY96q" target="_blank">
     <img
       src="https://image.noelshack.com/fichiers/2024/52/4/1735232986-1500x500.jpeg"
-      alt="The French Attic Icon"
-      width="80"
-      height="80"
-      style="border-radius: 50%; vertical-align: middle;"
     />
   </a>
   <br>
