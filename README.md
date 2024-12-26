@@ -10,18 +10,18 @@
 
 <div style="text-align: center;">
   <p>
-    <img src="https://skillicons.dev/icons?i=figma&theme=light" alt="Figma Icon" style="vertical-align: middle; margin-right: 8px;" />
+    <img src="[https://skillicons.dev/icons?i=figma&theme=light](https://pbs.twimg.com/profile_images/1607848268427321346/b1m4ktKt_400x400.jpg)" alt="Figma Icon" style="vertical-align: middle; margin-right: 8px;" />
     Freelance graphic designer at <a href="https://dsc.gg/thefrenchattic">The French Attic</a>
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord Icon" style="vertical-align: middle; margin-right: 8px;" />
+    <img src="https://skillicons.dev/icons?i=discordt" alt="Discord Icon" style="vertical-align: middle; margin-right: 8px;" />
     You can reach me on Discord: natsukioff
   </p>
   <p>
     <div style="text-align: center;">
   <a href="https://twitter.com/Natsuki0ff" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=twitter&theme=light"
+      src="https://skillicons.dev/icons?i=twitter"
       alt="Twitter Icon"
       style="vertical-align: middle; margin-right: 8px;"
     />
