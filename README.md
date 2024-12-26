@@ -14,7 +14,6 @@
   <img
     src="https://pbs.twimg.com/profile_banners/1515438306292637703/1672175875/1500x500.jpg"
     alt="Banner Image"
-    style="width: 100%; height: auto; max-width: 600px; border: none;"
   />
 </p>
 
