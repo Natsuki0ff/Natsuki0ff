@@ -10,7 +10,7 @@
 
 <div style="text-align: center;">
   <!-- Icône de The French Attic cliquable menant vers Discord -->
-  <a href="https://discord.com/users/natsukioff" target="_blank">
+  <a href="https://discord.gg/mNtTwMY96q" target="_blank">
     <img
       src="https://pbs.twimg.com/profile_images/1607848268427321346/b1m4ktKt_400x400.jpg"
       alt="The French Attic Icon"
