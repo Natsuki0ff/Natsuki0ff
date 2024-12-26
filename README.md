@@ -20,6 +20,7 @@
       style="border-radius: 50%; vertical-align: middle;"
     />
   </a>
+  <span style="font-weight: bold; vertical-align: middle; padding-left: 10px;">The French Attic</span>
 </p>
 
 
