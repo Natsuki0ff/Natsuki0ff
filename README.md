@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+NatsukiOff!;Currently+studying;computer+engineering+and+physics;%2B+Freelance+graphic+designer+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=209DBD&width=435&lines=Hi%2C+Im+NatsukiOff!" alt="Typing SVG" /></a>
 
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Currently+Studying" alt="Typing SVG" /></a>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,processing,java,cpp,cs,py,)](https://skillicons.dev)
 
-## Freelance graphic designer
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7D5B&width=435&lines=Freelance+graphic+designer" alt="Typing SVG" /></a>
 
 <p align="center">
   Hi! I offer personalized drawings, banner designs, and profile pictures. I'm currently enhancing my skills in graphic design.
@@ -25,15 +25,15 @@
 </p>
 
 
-## My Tools
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E2F6E&width=435&lines=My+Tools" alt="Typing SVG" /></a>
 
 [![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,rider,sublime,discord,github)](https://skillicons.dev)
 
-## Im also learning those tools
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD51BD&width=435&lines=Im+also+learning+those+tools" alt="Typing SVG" /></a>
 
 [![My Skills](https://skillicons.dev/icons?i=unity,blender,linux,kali)](https://skillicons.dev)
 
-## You can reach me here
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=209DBD&width=435&lines=You+can+reach+me+here+" alt="Typing SVG" /></a>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <div style="display: flex; align-items: center;">
