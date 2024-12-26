@@ -10,17 +10,13 @@
 - 🎮 **Fortnite player:** [NatsukiOff](https://fortnitetracker.com/profile/all/NatsukiOff)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=eqjc1rsvo4h23h8nikuo11utu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rasul;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Hi! I am a skilled Python back-end developer with experience in building and maintaining high-performance, robust server-side applications. My expertise in Python allows me to efficiently handle data processing, database management, and API development. I am familiar with popular web frameworks such as FastApi and Django and have experience working with databases such as Postgresql and MongoDB. I am also comfortable with version control using Git and have experience with Agile development methodologies. My goal is to deliver quality, scalable solutions that meet the needs of my clients.
-
-### 📈 GitHub Activity Graph:
 
 <p align="center">
   <a href="https://github.com/nnnLik">
     <img align="center"
          height="150em"
-         src="https://streak-stats.demolab.com?user=nnnLik&theme=aura&hide_border=false&border_radius=10" />
+         src="https://streak-stats.demolab.com?user=NatsukiOff&theme=aura&hide_border=false&border_radius=10" />
   </a>
 </p>
 
