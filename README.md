@@ -4,10 +4,6 @@
 
 ## Currently Studying
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,processing,java,cpp,cs,py,)](https://skillicons.dev)
-
-## Freelance graphic designer
-
 <p align="center">
   Hi! I offer personalized drawings, banner designs, and profile pictures. I'm currently enhancing my skills in graphic design.
   <br><br>
@@ -25,7 +21,7 @@
     alt="Banner Image"
     width="300"
     height="80"
-    style="vertical-align: middle;"
+    style="vertical-align: middle; padding-left: 10px;"
   />
 </p>
 
