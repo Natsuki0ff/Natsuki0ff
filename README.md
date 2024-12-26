@@ -12,12 +12,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rasul;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<a href="https://discord.gg/5dZPVytKnn">
-    <h3 align="center">
-        <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
-        Back-end Developer
-    </h3>
-</a>
 Hi! I am a skilled Python back-end developer with experience in building and maintaining high-performance, robust server-side applications. My expertise in Python allows me to efficiently handle data processing, database management, and API development. I am familiar with popular web frameworks such as FastApi and Django and have experience working with databases such as Postgresql and MongoDB. I am also comfortable with version control using Git and have experience with Agile development methodologies. My goal is to deliver quality, scalable solutions that meet the needs of my clients.
 
 ### 📈 GitHub Activity Graph:
