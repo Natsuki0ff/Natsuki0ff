@@ -25,7 +25,7 @@
       alt="Twitter Icon"
       style="vertical-align: middle; margin-right: 8px;"
     />
-    Suivez-moi sur Twitter
+  
   </a>
 </div>
 
