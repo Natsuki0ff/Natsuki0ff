@@ -27,7 +27,11 @@
 
 ## My Tools
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,rider,sublime,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,rider,sublime,discord,github)](https://skillicons.dev)
+
+## Im also learning those tools
+
+[![My Skills](https://skillicons.dev/icons?i=unity,blender,linux,kali)](https://skillicons.dev)
 
 ## You Can reach me here:
 
