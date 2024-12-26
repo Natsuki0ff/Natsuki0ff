@@ -7,6 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,processing,java,cpp,cs,py,)](https://skillicons.dev)
 
 ---
+## Actually frelancer
 
 <div style="text-align: center;">
   <!-- Icône de The French Attic cliquable menant vers Discord -->
@@ -19,8 +20,9 @@
       style="border-radius: 50%; margin-right: 10px;"
     />
   </a>
-  <p>Freelanceur chez The French Attic</p>
-  <!-- Icônes de Discord et Twitter centrées côte à côte -->
+
+## You Can reach me here:
+
   <div style="display: inline-flex; justify-content: center; gap: 10px;">
     <a href="https://discord.com/users/natsukioff" target="_blank">
       <img
