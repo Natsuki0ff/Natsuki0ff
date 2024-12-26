@@ -1,9 +1,14 @@
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+NatsukiOff!;Currently+studying;computer+engineering+and+physics;%2B+Freelance+graphic+designer+" alt="Typing SVG" /></a>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+NatsukiOff!;Currently+studying;computer+engineering+and+physics;%2B+Freelance+graphic+designer+" alt="Typing SVG" />
+  </a>
 
   <h2>Currently Studying</h2>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,processing,java,cpp,cs,py," alt="My Skills" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,processing,java,cpp,cs,py," alt="My Skills" />
+  </a>
 
   <h2>Freelance graphic designer</h2>
   <p>
@@ -17,7 +22,9 @@
   </p>
 
   <h2>My Tools</h2>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,rider,sublime,discord" alt="My Skills" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,rider,sublime,discord" alt="My Skills" />
+  </a>
 
   <h2>You Can reach me here:</h2>
   <div style="display: inline-flex; justify-content: center; gap: 10px;">
