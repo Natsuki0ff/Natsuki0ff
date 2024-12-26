@@ -20,15 +20,13 @@
       style="border-radius: 50%; vertical-align: middle;"
     />
   </a>
-  <a href="https://discord.gg/mNtTwMY96q" target="_blank">
-    <img
-      src="https://pbs.twimg.com/profile_banners/1515438306292637703/1672175875/1500x500.jpg"
-      alt="Banner Image"
-      width="300"
-      height="80"
-      style="vertical-align: middle;"
-    />
-  </a>
+  <img
+    src="https://pbs.twimg.com/profile_banners/1515438306292637703/1672175875/1500x500.jpg"
+    alt="Banner Image"
+    width="300"
+    height="80"
+    style="vertical-align: middle;"
+  />
 </p>
 
 
