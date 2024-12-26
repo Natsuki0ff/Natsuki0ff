@@ -18,8 +18,17 @@
     You can reach me on Discord: natsukioff
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="Twitter Icon" style="vertical-align: middle; margin-right: 8px;" />
-    Twitter: <a href="https://twitter.com/Natsuki0ff">@Natsuki0ff</a>
+    <div style="text-align: center;">
+  <a href="https://twitter.com/Natsuki0ff" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=twitter&theme=light"
+      alt="Twitter Icon"
+      style="vertical-align: middle; margin-right: 8px;"
+    />
+    Suivez-moi sur Twitter
+  </a>
+</div>
+
   </p>
 </div>
 
