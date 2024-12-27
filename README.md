@@ -69,21 +69,11 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Natsuki0ff">
-    <img align="center"
-         height="150em"
-         src="https://streak-stats.demolab.com?user=Natsuki0ff&theme=aura&hide_border=false&border_radius=10" />
-  </a>
-</p>
-
 
 <p align="center">
-  <a href="https://github.com/Natsuki0ff">
-    <img align="center"
-         height="150em"
-         src="https://streak-stats.demolab.com?user=Natsuki0ff&theme=aura&hide_border=false&border_radius=10" />
-  </a>
+  <img align="center"
+       height="150em"
+       src="https://streak-stats.demolab.com?user=Natsuki0ff&theme=aura&hide_border=false&border_radius=10" />
 </p>
 
 <p align="center">
