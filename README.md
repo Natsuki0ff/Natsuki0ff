@@ -55,8 +55,8 @@
     <span style="margin-left: 10px;">@Natsuki0ff on X</span>
   </div>
 </div>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/221273966457782283)](https://discord.com/users/665538060519211036)
+<p align="center">
+<a href="https://discord.com/users/665538060519211036"><img src="https://lanyard.cnrad.dev/api/665538060519211036" /></a> </p>
 
 
 <p align="center">
