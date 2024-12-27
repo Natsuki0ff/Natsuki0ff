@@ -118,7 +118,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Natsuki0ff}/count.svg" /></p> 
 <br></div>
 
-## <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AE4A16&width=435&lines=Official+Instant+Gaming+partner" alt="Typing SVG" /></a>" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AE4A16&width=435&lines=Official+Instant+Gaming+partner" alt="Typing SVG" /></a>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <a href="https://github.com/Natsuki0ff/instant-gaming-giveaway-list" target="_blank">
