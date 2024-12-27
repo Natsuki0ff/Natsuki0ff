@@ -21,7 +21,7 @@
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E2F6E&width=435&lines=My+Tools" alt="Typing SVG" /></a>
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,rider,sublime,discord,github,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,rider,sublime,discord,github)](https://skillicons.dev)
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD51BD&width=435&lines=Im+also+learning+those+tools" alt="Typing SVG" /></a>
 
