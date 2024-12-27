@@ -35,6 +35,10 @@
 </p>
 
 <p align="center">
+<a href="https://discord.com/users/665538060519211036"><img src="https://lanyard.cnrad.dev/api/665538060519211036" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img
       height="150em"
