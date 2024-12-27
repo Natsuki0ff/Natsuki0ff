@@ -29,35 +29,6 @@
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=209DBD&width=435&lines=You+can+reach+me+here+" alt="Typing SVG" /></a>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <div style="display: flex; align-items: center;">
-    <a href="https://discord.com/users/natsukioff" target="_blank">
-      <img
-        src="https://skillicons.dev/icons?i=discord&theme=light"
-        alt="Discord Icon"
-        width="40"
-        height="40"
-        style="border-radius: 50%;"
-      />
-    </a>
-    <span style="margin-left: 10px;">@natsukioff on Discord</span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <a href="https://twitter.com/Natsuki0ff" target="_blank">
-      <img
-        src="https://skillicons.dev/icons?i=twitter&theme=light"
-        alt="Twitter Icon"
-        width="40"
-        height="40"
-        style="border-radius: 50%;"
-      />
-    </a>
-    <span style="margin-left: 10px;">@Natsuki0ff on X</span>
-  </div>
-</div>
-<p align="center">
-<a href="https://discord.com/users/665538060519211036"><img src="https://lanyard.cnrad.dev/api/665538060519211036" /></a> </p>
-
 <p align="left">
     <a href="https://twitter.com/enzomtpWasTaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enzomtpWasTaken" height="30" width="40" /></a>
     <a href="https://discord.gg/xkRPSg4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xkRPSg4" height="30" width="40" /></a>
