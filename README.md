@@ -3,7 +3,7 @@
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Currently+in+engineering+school;on+computer+engineering+and+physics" alt="Typing SVG" /></a>
 
-[![My Skills](https://skillicons.dev/icons?i=processing,java,cpp,cs,py,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=processing,java,arduino,cpp,cs,py,js,html,css)](https://skillicons.dev)
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7D5B&width=435&lines=Freelance+graphic+designer" alt="Typing SVG" /></a>
 
@@ -21,11 +21,11 @@
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E2F6E&width=435&lines=My+Tools" alt="Typing SVG" /></a>
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,rider,sublime,discord,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,rider,sublime,discord,github,arduino)](https://skillicons.dev)
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD51BD&width=435&lines=Im+also+learning+those+tools" alt="Typing SVG" /></a>
 
-[![My Skills](https://skillicons.dev/icons?i=unity,blender,linux,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,blender,linux,kali,arduino)](https://skillicons.dev)
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=209DBD&width=435&lines=You+can+reach+me+here+" alt="Typing SVG" /></a>
 
