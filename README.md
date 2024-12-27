@@ -117,6 +117,13 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Natsuki0ff}/count.svg" /></p> 
 <br></div>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <a href="https://www.instant-gaming.com/?igr=natsukioff" target="_blank">
+        <img src="https://uc49c45602cceec5e318b30d5f11.previews.dropboxusercontent.com/p/thumb/ACfi-8Qh08cleMyZeDjWEu575LraMCxl1fasghBpQxtij-bhpxYCQ9QrR1qy0ugHQ2kYnarn7gkp6IhIuGv7I0HVi5pm4SERh55RlLahfwWw9pzXJ61i9mObNP1X3oX4a7tgjxcO9V_m9qQVT5qbtx_kEwmiZZd5EqAjxvLYIOx0mQZjXeYL_Mik3Zm_xnhIK_uj6bOIsChZj-zCJ4bpqSWu8fpznqa9MM49avpEj1xX_Vpx0KNoWtAqB0n1oV0D1_Iwv5GlvwY2O-BV8aG19E1t4RNyaQD8x9zVLjpXYp2xqw8seDvE_g5Oe4DzT43IF2qQ18Z0hPVOGzRV8uJ4-p5jvyz3HM9eOwKKuMJKX6oxkQ/p.png" alt="Image" style="max-width: 100%; max-height: 80vh; cursor: pointer;">
+    </a>
+</div>
+
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+visiting+my+profile." alt="Typing SVG" /></a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
