@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <a href="https://open.spotify.com/user/eqjc1rsvo4h23h8nikuo11utu">
     <img
       height="150em"
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=eqjc1rsvo4h23h8nikuo11utu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"
