@@ -27,8 +27,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=unity,blender,linux,kali,arduino)](https://skillicons.dev)
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=209DBD&width=435&lines=You+can+reach+me+here+" alt="Typing SVG" /></a>
-
 <p align="center">
   <a href="https://open.spotify.com/user/eqjc1rsvo4h23h8nikuo11utu">
     <img
