@@ -58,15 +58,6 @@
          height="150em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tit-exe&theme=aura"
     />
-
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AE4A16&width=435&lines=Official+Instant+Gaming+partner" alt="Typing SVG" /></a>
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <a href="https://github.com/tit-exe/instant-gaming-giveaway-list" target="_blank">
-        <img 
-src="https://camo.githubusercontent.com/98c9edd4e0e75a357b84b401353441346b2254c2496986a2e4b369e070fb727d/68747470733a2f2f7777772e696e7374616e742d67616d696e672e636f6d2f7468656d65732f696776322f696d616765732f6f70656e67726170682e706e67" alt="Image" style="max-width: 100%; max-height: 80vh; cursor: pointer;">
-    </a>
-</div>
   
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+visiting+my+profile." alt="Typing SVG" /></a>
 
