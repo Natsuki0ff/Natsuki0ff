@@ -11,6 +11,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=unity,blender,linux,kali,arduino)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=processing,java,arduino,c,cpp,cs,py,js,html,css)](https://skillicons.dev)
+
 <p align="center">
   <a href="https://open.spotify.com/user/eqjc1rsvo4h23h8nikuo11utu">
     <img
