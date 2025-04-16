@@ -29,15 +29,6 @@
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=209DBD&width=435&lines=You+can+reach+me+here+" alt="Typing SVG" /></a>
 
-<p align="left">
-    <a href="https://twitter.com/natsuki0ff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enzomtpWasTaken" height="30" width="40" /></a>
-    <a href="https://discord.com/users/665538060519211036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xkRPSg4" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-<a href="https://discord.com/users/665538060519211036"><img src="https://lanyard.cnrad.dev/api/665538060519211036" /></a>
-</p>
-
 <p align="center">
   <a href="https://open.spotify.com/user/eqjc1rsvo4h23h8nikuo11utu">
     <img
