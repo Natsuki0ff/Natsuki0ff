@@ -3,7 +3,7 @@
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Currently+in+engineering+school;on+computer+engineering+and+physics" alt="Typing SVG" /></a>
 
-[![My Skills](https://skillicons.dev/icons?i=processing,java,arduino,c,cpp,cs,py,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=processing,java,arduino,c,cs,py)](https://skillicons.dev)
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD51BD&width=435&lines=Im+also+learning+those+tools" alt="Typing SVG" /></a>
 
